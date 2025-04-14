@@ -1,0 +1,6 @@
+Orgesa Hajdinaj
+Detyrë Praktike në Java – Përdorimi i File Stream
+Qëllimi i detyrës:
+Të zhvilloni një program praktik në gjuhën Java duke përdorur teknikat e leximit dhe
+shkrimit të skedarëve (File Stream), si pjesë e njohurive themelore mbi menaxhimin e të
+dhënave në nivel të sistemit të skedarëve.
