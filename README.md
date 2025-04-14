@@ -18,6 +18,6 @@ Ky projekt lexon një skedar me emrin `input.txt`, konverton çdo rresht në shk
    javac FileConverter.java
    java FileConverter
 
-##Punoi:
+## Punoi:
 1. Orgesa Hajdinaj
 2. Marjeta Lena
