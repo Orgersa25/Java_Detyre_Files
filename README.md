@@ -12,7 +12,7 @@ Ky projekt lexon një skedar me emrin `input.txt`, konverton çdo rresht në shk
 
 ## Ekzekutimi
 
-1. Sigurohuni që `input.txt` ndodhet në të njëjtën direktori.
+1. Sigurohuni që `input.txt` ndodhet në të njëjtën direktori dhe nese jo programi do ta krijoj automatikisht.
 2. Ekzekutoni programin:
    ```bash
    javac FileConverter.java
@@ -21,3 +21,4 @@ Ky projekt lexon një skedar me emrin `input.txt`, konverton çdo rresht në shk
 ## Punoi:
 1. Orgersa Hajdinaj
 2. Marjeta Lena
+   
