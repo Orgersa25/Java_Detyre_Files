@@ -17,3 +17,7 @@ Ky projekt lexon një skedar me emrin `input.txt`, konverton çdo rresht në shk
    ```bash
    javac FileConverter.java
    java FileConverter
+
+#Punoi:
+1. Orgesa Hajdinaj
+2. Marjeta Lena
